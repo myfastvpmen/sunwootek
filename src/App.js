@@ -9,7 +9,7 @@ function App() {
         <p>
           SUNWOOTEK website 
         </p>
-        <p><code>Under Constaruction ...</code></p>
+        <p><code>Under Construction ...</code></p>
       </header>
     </div>
   );
